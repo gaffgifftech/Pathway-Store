@@ -1,2 +1,2 @@
 # PathwayOS
-The official repository for the PathwayOS installer.
+Bridging the gap, simplifying your experience.
